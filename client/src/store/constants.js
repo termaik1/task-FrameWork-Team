@@ -1,0 +1,17 @@
+export default {
+  GET:               'SERVER:GET',
+  GET_SUCCESS:       'GET_SUCCESS',
+  GET_FAILURE:       'GET_FAILURE',
+
+  CREATE:            'SERVER:CREATE',
+  CREATE_SUCCESS:    'CREATE_SUCCESS',
+  CREATE_FAILURE:    'CREATE_FAILURE',
+
+  EDIT:              'SERVER:EDIT',
+  EDIT_SUCCESS:      'EDIT_SUCCESS',
+  EDIT_FALURE:       'EDIT_FAILURE',
+
+  DELETE:            'SERVER:DELETE',
+  DELETE_SUCCESS:    'DELETE_SUCCESS',
+  DELETE_FALURE:     'DELETE_FALURE'
+};
